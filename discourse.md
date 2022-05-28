@@ -104,6 +104,8 @@ You can rename the current file by clicking the file name in the navigation bar 
 > **Note:** The **Molweni** is annoated by SRDT and depedency.
 >  **Note:** The **CCR** (Cognitive Coherence Relation) is a unified framework useful in cognitive studies, and **QAD** (question and answer) is another framework particularly useful in conversation and dialogues.
 
+## citation
+Please cite "Kun Sun. 2022. A Dependency Framework for Unifying Discourse Corpora." if you find such information useful.
 
 
 
