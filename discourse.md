@@ -1,4 +1,4 @@
-﻿##      Discourse structure                    # 
+﻿# Discourse structure                   
 
 Discourse or text generally has multiple clauses or sentences. The parts of discourse are interrelated and form a coherent whole that clearly expresses a meaning. Since communication mostly takes place
 in discourse (text), research in language sciences cannot simply confine itself to words and sentences. Discourse in the wider sense underlies disciplines such as law, religion, politics, science amongst others. **Discourse structure**, like syntax, concerns the ways in which discourse units are brought together to form a coherent discourse. Discourse structure mostly concerns the logical and topological interrelations of discourse units (or elementary discourse units, EDUs). Discourse structure reflects the thematic organization of the text at various levels of granularity and it constrains semantic interpretations. **Discourse relation** is the semantic or logical meaning of the connections between discourse units. It is a central concern in discourse structure. The processing of discourse structure is thus a crucial part of research in linguistics, especially that concerning natural language processing. The study of the processing of discourse structure is particularly helpful when it comes to seeing how humans comprehend language in a real-world context.
@@ -21,7 +21,7 @@ relation.
 3) SDRT (Segmented Discourse Representation Theory, (Asher et al., 2003)), combines dynamic semantics with a discourse structure defined
 via rhetorical relations between segments. These approaches to discourse structure thus reflect their different areas of focus
 
-# Discourse corpora
+# Discourse corpora in mutiple languages
 
 1) Using an RST framework, the structure of a text can be depicted as a tree with three fundamental components: (i) discourse units, (ii) the nuclearity status of the discourse units, and (iii) RST relations.
 RST corpora (such as the RST discourse treebank. RST-DT) was established.
