@@ -105,7 +105,7 @@ You can rename the current file by clicking the file name in the navigation bar 
 >  **Note:** The **CCR** (Cognitive Coherence Relation) is a unified framework useful in cognitive studies, and **QAD** (question and answer) is another framework particularly useful in conversation and dialogues.
 
 ## citation
-Please cite "Kun Sun. 2022. A Dependency Framework for Unifying Discourse Corpora." if you find such information useful.
+Please cite "Sun, Kun. 2022. “A Dependency Framework for Unifying Discourse Corpora.” PsyArXiv. June 27. doi:10.31234/osf.io/vjegb. if you feel such information is useful.
 
 
 
