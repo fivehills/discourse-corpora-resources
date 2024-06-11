@@ -5,7 +5,7 @@ in discourse (text), research in language sciences cannot simply confine itself 
 
 # The python scripts 
 
-## In the folder (PDTB2dep) can convert the PDTB annotations into discourse dependency information
+The code in the folder (PDTB2dep) can convert the PDTB annotations into discourse dependency information
 
 The following is about some possible explorations based on discourse dependency. 
 # Theories of discourse structure
