@@ -3,22 +3,27 @@
 Discourse or text generally has multiple clauses or sentences. The parts of discourse are interrelated and form a coherent whole that clearly expresses a meaning. Since communication mostly takes place
 in discourse (text), research in language sciences cannot simply confine itself to words and sentences. Discourse in the wider sense underlies disciplines such as law, religion, politics, science amongst others. **Discourse structure**, like syntax, concerns the ways in which discourse units are brought together to form a coherent discourse. Discourse structure mostly concerns the logical and topological interrelations of discourse units (or elementary discourse units, EDUs). Discourse structure reflects the thematic organization of the text at various levels of granularity and it constrains semantic interpretations. **Discourse relation** is the semantic or logical meaning of the connections between discourse units. It is a central concern in discourse structure. The processing of discourse structure is thus a crucial part of research in linguistics, especially that concerning natural language processing. The study of the processing of discourse structure is particularly helpful when it comes to seeing how humans comprehend language in a real-world context.
 
-# The python scripts in the folder (PDTB2dep) can convert the PDTB annotations into discourse dependency information
+# The python scripts 
+
+## In the folder (PDTB2dep) can convert the PDTB annotations into discourse dependency information
 
 The following is about some possible explorations based on discourse dependency. 
 # Theories of discourse structure
 
 Researchers have developed many different theories of discourse and these reflect many and various perspectives on textual coherence. 
 
-1) RST (Rhetorical Structure Theory, Mann and Thompson (1988))
+## 1) RST 
+(Rhetorical Structure Theory, Mann and Thompson (1988))
 is one influential approach in this field. It describes textual coherence
 using the rhetorical relations between EDUs and postulates a hierarchical tree structure. 
 
-2) By contrast, D-LTAG theory (a lexicalized Tree Adjoining Grammar for discourse) argues that discourse relations can be lexicalized (Webber, 2004). Based on the fact that discourse connectives signal discourse
+## 2) D-LTAG theory 
+(a lexicalized Tree Adjoining Grammar for discourse) argues that discourse relations can be lexicalized (Webber, 2004). Based on the fact that discourse connectives signal discourse
 relations (e.g., “because, although, when”), this theory treats two discourse units as linked by a connective, which means that one discourse unit and the connective together constitute a dependency
 relation.
 
-3) SDRT (Segmented Discourse Representation Theory, (Asher et al., 2003)), combines dynamic semantics with a discourse structure defined
+## 3) SDRT
+(Segmented Discourse Representation Theory, (Asher et al., 2003)), combines dynamic semantics with a discourse structure defined
 via rhetorical relations between segments. These approaches to discourse structure thus reflect their different areas of focus
 
 # Discourse corpora
