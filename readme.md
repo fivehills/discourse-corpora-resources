@@ -26,6 +26,16 @@ relation.
 (Segmented Discourse Representation Theory, (Asher et al., 2003)), combines dynamic semantics with a discourse structure defined
 via rhetorical relations between segments. These approaches to discourse structure thus reflect their different areas of focus
 
+# Cite:
+```
+@inproceedings{sun2022constructing,
+  title={Constructing the Corpus of Chinese Textual ‘Run-on’Sentences (CCTRS): Discourse Corpus Benchmark with Multi-layer Annotations},
+  author={Sun, Kun and Wang, Rong},
+  booktitle={Proceedings of the 5th International Conference on Natural Language and Speech Processing (ICNLSP 2022)},
+  pages={265--276},
+  year={2022}
+}
+```
 # Discourse corpora
 
 1) Using an RST framework, the structure of a text can be depicted as a tree with three fundamental components: (i) discourse units, (ii) the nuclearity status of the discourse units, and (iii) RST relations.
