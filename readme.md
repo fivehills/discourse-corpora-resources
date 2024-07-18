@@ -36,6 +36,15 @@ via rhetorical relations between segments. These approaches to discourse structu
   year={2022}
 }
 ```
+```
+@article{sun2024dependency,
+  title={A Novel Dependency Framework for Enhancing Discourse Data Analysis},
+  author={Sun, Kun and Wang, Rong},
+  year={2024},
+  journal={arXiv preprint arXiv:2407.12473},
+}
+
+```
 # Discourse corpora
 
 1) Using an RST framework, the structure of a text can be depicted as a tree with three fundamental components: (i) discourse units, (ii) the nuclearity status of the discourse units, and (iii) RST relations.
