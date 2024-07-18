@@ -41,7 +41,7 @@ via rhetorical relations between segments. These approaches to discourse structu
   title={A Novel Dependency Framework for Enhancing Discourse Data Analysis},
   author={Sun, Kun and Wang, Rong},
   year={2024},
-  journal={arXiv preprint arXiv:2407.12473},
+  journal={arXiv preprint arXiv:2407.12473}
 }
 
 ```
